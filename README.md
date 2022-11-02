@@ -44,7 +44,7 @@ Run in your terminal the following commands:
 ​
 Contributions, issues, and feature requests are welcome!
 ​
-Feel free to check the [issues page](https://github.com/maherramadan78/Microverse-project/issues).
+Feel free to check the [issues page].(https://github.com/maherramadan78/review-past-project)
 ​
 ## Show your support
 ​
